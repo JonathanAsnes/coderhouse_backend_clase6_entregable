@@ -1,0 +1,20 @@
+[
+  {
+    "titulo": "Xiaomi Redmi 9A Dual SIM 32 GB gris granito 2 GB RAM",
+    "precio": 29999,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_981867-MLA48770610134_012022-V.webp",
+    "id": 1
+  },
+  {
+    "titulo": "Xiaomi Redmi 10 Dual SIM 64 GB carbon gray 4 GB RAM",
+    "precio": 49999,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_729373-MLA48591993422_122021-V.webp",
+    "id": 2
+  },
+  {
+    "titulo": "Xiaomi Redmi Note 10 5G Dual SIM 128 GB gris grafito 4 GB RAM",
+    "precio": 59999,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_966955-MLA48579050616_122021-V.webp",
+    "id": 3
+  }
+]
